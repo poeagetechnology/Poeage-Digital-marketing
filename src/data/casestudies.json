@@ -1,0 +1,83 @@
+[
+  {
+    "id": "retail-seo-growth",
+    "title": "Retail Brand SEO Transformation",
+    "client": "UrbanStyle Retail",
+    "industry": "E-Commerce",
+    "overview": "Improved organic visibility and conversions through structured SEO and UX optimization.",
+    "challenge": "Low search rankings and poor conversion rates despite high traffic.",
+    "solution": "Implemented technical SEO, content clusters, and optimized checkout UX.",
+    "timeline": "3 Months",
+    "technologies": ["Next.js", "Google Analytics", "Search Console"],
+    "results": {
+      "revenue": "+48%",
+      "traffic": "+120%",
+      "conversion": "+32%",
+      "roi": "4.2x"
+    },
+    "deliverables": [
+      "SEO audit & fixes",
+      "Content strategy",
+      "Conversion optimization"
+    ],
+    "testimonial": "Poeage helped us turn traffic into revenue. The results were measurable within weeks.",
+    "beforeAfter": {
+      "before": "High traffic, low conversions",
+      "after": "Higher rankings and 32% conversion improvement"
+    }
+  },
+  {
+    "id": "b2b-lead-generation",
+    "title": "B2B Lead Generation System",
+    "client": "TechCore Solutions",
+    "industry": "B2B SaaS",
+    "overview": "Built a scalable lead generation funnel with LinkedIn outreach and automation.",
+    "challenge": "Unpredictable lead flow and high acquisition cost.",
+    "solution": "Implemented ABM strategy, landing pages, and CRM automation.",
+    "timeline": "4 Months",
+    "technologies": ["HubSpot", "LinkedIn Ads", "React"],
+    "results": {
+      "revenue": "+35%",
+      "traffic": "+90%",
+      "conversion": "+50%",
+      "roi": "5x"
+    },
+    "deliverables": [
+      "Lead funnel",
+      "CRM automation",
+      "LinkedIn outreach system"
+    ],
+    "testimonial": "We now have predictable leads every month — a complete transformation.",
+    "beforeAfter": {
+      "before": "Inconsistent leads",
+      "after": "Predictable pipeline & 50% conversion increase"
+    }
+  },
+  {
+    "id": "education-enrollment",
+    "title": "Education Platform Enrollment Growth",
+    "client": "FutureLearn Academy",
+    "industry": "Education",
+    "overview": "Increased student enrollments using targeted campaigns and landing page optimization.",
+    "challenge": "Low enrollment despite high interest in courses.",
+    "solution": "Created funnel-based campaigns and optimized course landing pages.",
+    "timeline": "2 Months",
+    "technologies": ["Meta Ads", "Google Ads", "Figma"],
+    "results": {
+      "revenue": "+60%",
+      "traffic": "+110%",
+      "conversion": "+45%",
+      "roi": "6x"
+    },
+    "deliverables": [
+      "Campaign strategy",
+      "Landing page redesign",
+      "Analytics dashboard"
+    ],
+    "testimonial": "Our enrollments doubled in just two months.",
+    "beforeAfter": {
+      "before": "High interest, low enrollment",
+      "after": "Enrollment doubled in 60 days"
+    }
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "category": "General Questions",
+    "items": [
+      {
+        "question": "What does Poeage do?",
+        "answer": "We provide structured digital growth solutions including strategy, performance marketing, and scalable technology systems."
+      },
+      {
+        "question": "Where are you located?",
+        "answer": "We operate from Tamil Nadu, India and serve clients globally."
+      }
+    ]
+  },
+  {
+    "category": "Services",
+    "items": [
+      {
+        "question": "What services do you offer?",
+        "answer": "SEO, performance marketing, web development, brand strategy, and automation systems."
+      },
+      {
+        "question": "Do you offer custom solutions?",
+        "answer": "Yes. Every solution is tailored to your business model and growth goals."
+      }
+    ]
+  },
+  {
+    "category": "Pricing",
+    "items": [
+      {
+        "question": "How is pricing structured?",
+        "answer": "Pricing depends on scope, complexity, and expected outcomes. We provide transparent proposals."
+      },
+      {
+        "question": "Do you offer flexible plans?",
+        "answer": "Yes. We offer project-based, retainer, and performance-based pricing models."
+      }
+    ]
+  },
+  {
+    "category": "Implementation",
+    "items": [
+      {
+        "question": "How long does implementation take?",
+        "answer": "Timelines vary from 2 weeks to 3 months depending on project complexity."
+      },
+      {
+        "question": "Will you integrate with our existing systems?",
+        "answer": "Yes. We specialize in integrating with CRM, ERP, and marketing platforms."
+      }
+    ]
+  },
+  {
+    "category": "Support",
+    "items": [
+      {
+        "question": "Do you provide ongoing support?",
+        "answer": "Yes. We offer maintenance, optimization, and growth support packages."
+      },
+      {
+        "question": "How can I contact support?",
+        "answer": "You can contact us via email, phone, or through our support portal."
+      }
+    ]
+  }
+]
