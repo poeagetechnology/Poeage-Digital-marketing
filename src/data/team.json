@@ -1,0 +1,65 @@
+{
+  "departments": [
+    {
+      "name": "Leadership",
+      "members": [
+        {
+          "name": "Gowrishankar Gunasekaran",
+          "title": "Founder & CEO",
+          "bio": "Leads strategic growth architecture and long-term digital systems.",
+          "image": "https://via.placeholder.com/400",
+          "email": "gowridyk3@gmail.com",
+          "linkedin": "#",
+          "twitter": "#"
+        }
+      ]
+    },
+    {
+      "name": "Marketing",
+      "members": [
+        {
+          "name": "Preethika G",
+          "title": "Head of Marketing",
+          "bio": "Builds ROI-driven acquisition frameworks and analytics systems.",
+          "image": "https://via.placeholder.com/400",
+          "email": "preethika@gmail.com",
+          "linkedin": "#",
+          "twitter": "#"
+        }
+      ]
+    },
+    {
+      "name": "Technology",
+      "members": [
+        {
+          "name": "Vigneshwaran",
+          "title": "Technology Director",
+          "bio": "Architect of scalable and secure digital platforms.",
+          "image": "https://via.placeholder.com/400",
+          "email": "vignesh@gmail.com",
+          "linkedin": "#",
+          "twitter": "#"
+        }
+      ]
+    }
+  ],
+
+  "values": [
+    {
+      "title": "Integrity",
+      "desc": "Transparency, accountability, and ethical execution."
+    },
+    {
+      "title": "Innovation",
+      "desc": "Embracing new technologies and creative thinking."
+    },
+    {
+      "title": "Excellence",
+      "desc": "Relentless pursuit of measurable outcomes."
+    },
+    {
+      "title": "Collaboration",
+      "desc": "Strong partnerships that drive shared success."
+    }
+  ]
+}

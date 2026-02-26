@@ -1,0 +1,58 @@
+[
+  {
+    "id": "enterprise-growth",
+    "tag": "Strategy",
+    "title": "Enterprise Growth Models",
+    "description": "Frameworks for scalable business expansion.",
+    "details": "Covers market positioning and long-term scaling strategies."
+  },
+  {
+    "id": "performance-intelligence",
+    "tag": "Analytics",
+    "title": "Performance Intelligence",
+    "description": "Data-driven decision frameworks.",
+    "details": "Includes KPI dashboards and ROI optimization methods."
+  },
+  {
+    "id": "industry-whitepapers",
+    "tag": "Research",
+    "title": "Industry Whitepapers",
+    "description": "Research reports on evolving market dynamics.",
+    "details": "Covers consumer behavior, technology shifts, and future forecasts."
+  },
+  {
+    "id": "future-readiness",
+    "tag": "Trends",
+    "title": "Future Readiness",
+    "description": "Insights on upcoming technologies.",
+    "details": "Analysis of AI, automation, and digital ecosystems."
+  },
+  {
+    "id": "customer-intelligence",
+    "tag": "Clients",
+    "title": "Customer Intelligence",
+    "description": "Understanding client journeys and expectations.",
+    "details": "Retention strategies and loyalty program insights."
+  },
+  {
+    "id": "market-expansion",
+    "tag": "Global",
+    "title": "Market Expansion",
+    "description": "International opportunity mapping.",
+    "details": "Cross-border strategies and global growth planning."
+  },
+  {
+    "id": "automation-systems",
+    "tag": "Technology",
+    "title": "Automation Systems",
+    "description": "Workflow automation for operational efficiency.",
+    "details": "Includes CRM automation, lead scoring, and process optimization."
+  },
+  {
+    "id": "brand-authority",
+    "tag": "Branding",
+    "title": "Brand Authority",
+    "description": "Building trust and authority in competitive markets.",
+    "details": "Thought leadership, PR strategies, and brand positioning."
+  }
+]

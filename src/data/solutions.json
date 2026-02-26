@@ -1,0 +1,58 @@
+[
+  {
+    "id": "retail-ecommerce",
+    "icon": "Store",
+    "category": "Retail & E-Commerce",
+    "idea": "Omnichannel selling, loyalty programs, and digital storefront optimization.",
+    "sales": "Increase footfall and online conversions through targeted campaigns."
+  },
+  {
+    "id": "corporate-b2b",
+    "icon": "Building2",
+    "category": "Corporate & B2B",
+    "idea": "Lead generation funnels, LinkedIn outreach, and account-based marketing.",
+    "sales": "Convert enterprise leads into long-term contracts."
+  },
+  {
+    "id": "education-training",
+    "icon": "GraduationCap",
+    "category": "Education & Training",
+    "idea": "Online course platforms, webinar funnels, and student CRM systems.",
+    "sales": "Boost enrollments with automated follow-ups and ads."
+  },
+  {
+    "id": "healthcare",
+    "icon": "HeartPulse",
+    "category": "Healthcare & Wellness",
+    "idea": "Appointment systems, health portals, and patient engagement apps.",
+    "sales": "Improve bookings and retention through digital trust-building."
+  },
+  {
+    "id": "logistics",
+    "icon": "Truck",
+    "category": "Logistics & Transport",
+    "idea": "Fleet tracking, booking apps, and route optimization tools.",
+    "sales": "Generate B2B contracts via industry-specific campaigns."
+  },
+  {
+    "id": "startups",
+    "icon": "ShoppingBag",
+    "category": "Startups & D2C",
+    "idea": "MVP development, branding kits, and influencer partnerships.",
+    "sales": "Scale rapidly with growth hacking strategies."
+  },
+  {
+    "id": "professional-services",
+    "icon": "Briefcase",
+    "category": "Professional Services",
+    "idea": "Portfolio websites, client portals, and online consultations.",
+    "sales": "Attract premium clients through authority marketing."
+  },
+  {
+    "id": "mobile-saas",
+    "icon": "Smartphone",
+    "category": "Mobile Apps & SaaS",
+    "idea": "Product-led onboarding, freemium models, and UX optimization.",
+    "sales": "Increase subscriptions with retention campaigns."
+  }
+]

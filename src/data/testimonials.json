@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "name": "Ramesh Kumar",
+    "company": "UrbanStyle Fashion",
+    "feedback": "Our revenue doubled within 6 months thanks to Poeage.",
+    "rating": 5
+  },
+  {
+    "id": 2,
+    "name": "Anita Sharma",
+    "company": "TechNova Solutions",
+    "feedback": "Professional, data-driven, and highly effective.",
+    "rating": 5
+  },
+  {
+    "id": 3,
+    "name": "Vikram Iyer",
+    "company": "Iyer Logistics",
+    "feedback": "Their automation reduced our operational delays by 40% and improved client satisfaction.",
+    "rating": 5
+  },
+  {
+    "id": 4,
+    "name": "Priya Menon",
+    "company": "EduSmart Academy",
+    "feedback": "Enrollment increased by 65% after implementing Poeage’s digital funnel strategy.",
+    "rating": 5
+  },
+  {
+    "id": 5,
+    "name": "Rahul Verma",
+    "company": "FinEdge Consulting",
+    "feedback": "We saw a 3x increase in qualified leads within the first quarter.",
+    "rating": 5
+  },
+  {
+    "id": 6,
+    "name": "Sneha Reddy",
+    "company": "WellCare Clinics",
+    "feedback": "Online appointment bookings grew by 120% after launching our new platform.",
+    "rating": 4
+  },
+  {
+    "id": 7,
+    "name": "Arjun Patel",
+    "company": "BuildRight Constructions",
+    "feedback": "Their branding and web presence helped us secure larger commercial contracts.",
+    "rating": 5
+  },
+  {
+    "id": 8,
+    "name": "Neha Gupta",
+    "company": "StyleNest Interiors",
+    "feedback": "Our social media engagement tripled within two months.",
+    "rating": 4
+  },
+  {
+    "id": 9,
+    "name": "Karthik Subramanian",
+    "company": "SaaSFlow Technologies",
+    "feedback": "Their product-led growth strategy improved trial-to-paid conversions by 35%.",
+    "rating": 5
+  },
+  {
+    "id": 10,
+    "name": "Meera Nair",
+    "company": "GreenHarvest Organics",
+    "feedback": "We expanded to new markets with their targeted digital campaigns.",
+    "rating": 5
+  }
+]

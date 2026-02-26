@@ -1,0 +1,56 @@
+[
+  {
+    "id": "foundation",
+    "icon": "Rocket",
+    "phase": "01",
+    "title": "Our Foundation",
+    "desc": "Built on structured digital growth systems.",
+    "image": "https://images.unsplash.com/photo-1552664730-d307ca884978",
+    "details": "Poeage was founded to bring clarity and discipline to digital growth through measurable and scalable frameworks."
+  },
+  {
+    "id": "philosophy",
+    "icon": "Target",
+    "phase": "02",
+    "title": "Our Philosophy",
+    "desc": "Clarity, execution, and accountability.",
+    "image": "https://images.unsplash.com/photo-1551836022-d5d88e9218df",
+    "details": "We believe sustainable growth is engineered through structured strategy, data-backed decisions, and consistent optimization."
+  },
+  {
+    "id": "approach",
+    "icon": "TrendingUp",
+    "phase": "03",
+    "title": "Our Approach",
+    "desc": "Data-driven performance systems.",
+    "image": "https://images.unsplash.com/photo-1543286386-713bdd548da4",
+    "details": "Every solution we design is guided by analytics, KPI tracking, and ROI-focused execution models."
+  },
+  {
+    "id": "leadership",
+    "icon": "Users",
+    "phase": "04",
+    "title": "Leadership",
+    "desc": "Execution-focused professionals.",
+    "image": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d",
+    "details": "Our leadership integrates marketing, strategy, and technology to deliver measurable business outcomes."
+  },
+  {
+    "id": "transparency",
+    "icon": "ShieldCheck",
+    "phase": "05",
+    "title": "Trust & Transparency",
+    "desc": "Clear reporting and accountability.",
+    "image": "https://images.unsplash.com/photo-1563986768494-4dee2763ff3f",
+    "details": "We operate with full transparency, providing structured reporting and performance visibility."
+  },
+  {
+    "id": "vision",
+    "icon": "Target",
+    "phase": "06",
+    "title": "Our Vision",
+    "desc": "Long-term market authority for clients.",
+    "image": "https://images.unsplash.com/photo-1545235617-9465d2a55698",
+    "details": "We help brands move from experimentation to structured, scalable digital ecosystems."
+  }
+]
